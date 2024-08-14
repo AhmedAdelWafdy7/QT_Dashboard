@@ -14,7 +14,7 @@ Window {
     //TODO make UI responsive
     //TODO implement second theme switching
 
-    title: qsTr("QML Course")
+    title: qsTr("Dashboard")
 
     Item {
         anchors.fill: parent
