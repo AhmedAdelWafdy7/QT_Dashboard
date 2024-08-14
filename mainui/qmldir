@@ -1,0 +1,5 @@
+DashboardAppContent 1.0 DashboardAppContent.qml
+
+NewReminderPopup 1.0 popups/NewReminderPopup.qml
+NewTaskPopup 1.0 popups/NewTaskPopup.qml
+NewOrReplyEmailPopup 1.0 popups/NewOrReplyEmailPopup.qml
